@@ -3,7 +3,12 @@
 
 This is a Streamlit app that uses the OpenAI API to create a chat interface for a healthcare assistant. The app is designed to provide emotional support and stress analysis to users.
 
+## Demo
+![Untitled Project](https://github.com/mshojaei77/healthcare-assistant/assets/76538971/3c84a050-f604-4f67-b2a3-9c41118f44d0)
+
+
 **Getting Started**
+
 ---------------
 
 ### Prerequisites
